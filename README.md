@@ -1,8 +1,8 @@
 # Hi, I'm Brian 👋
 
-I build websites and apps that are actually useful for real people — especially businesses in Kenya.
+I build websites and apps that are actually useful for real people  especially businesses in Kenya.
 
-I care about building for how people here actually use the internet. M-Pesa, WhatsApp, mobile-first experiences, and fast-loading pages aren't extra features — they're part of the experience.
+I care about building for how people here actually use the internet. M-Pesa, WhatsApp, mobile-first experiences, and fast-loading pages aren't extra features they're part of the experience.
 
 I'm the founder of **Zuri Creative Designs**, where I build websites, apps, and digital experiences for businesses that want to look professional and actually get things done online.
 
