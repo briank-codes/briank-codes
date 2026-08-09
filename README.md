@@ -10,7 +10,7 @@ I'm also the guy who somehow ends up debugging a CSS media query at 1am, wonderi
 
 ---
 
-## 🏗️ What I'm Building
+## 🏗️ What I've Built
 
 - **Zuri Creative Designs** — My agency, built with Next.js and a black, white, and green aesthetic.
 - **PrimeHub Properties** — A real estate platform built around the Kenyan market, with M-Pesa references, WhatsApp CTAs, maps, and property listings.
@@ -42,7 +42,7 @@ I'm also the guy who somehow ends up debugging a CSS media query at 1am, wonderi
 - Google Maps API (property listings, location-based features)
 - REST APIs (general backend/frontend integration)
 
-I'm still learning, experimenting, and breaking things along the way — that's honestly one of my favourite parts of building.
+I'm still learning, experimenting, and breaking things along the way that's honestly one of my favourite parts of building.
 
 ---
 
